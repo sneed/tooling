@@ -31,6 +31,8 @@ Update the application code in
 ```
 
 Then add/commit/push to gitlab
+Changes
+
 
 ```
 git status # to see your changes
